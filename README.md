@@ -16,6 +16,19 @@
 
 
 
+[Development Default](http://127.0.0.1:5173/)
+
+TODO: 
+
+- Strip out all nonessential pages and components. 
+- Check Lunacy for baseline design concepts
+- Most basic styled app to render a page then add complexity.
+- Remove all styles and then add in basic required styles
+
+
+
+<!-- https://bulma.io/documentation/overview/ ideally for layout structure -->
+
 <!-- This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup

@@ -1,0 +1,74 @@
+html{
+  background: url(/img/bg/texture@2x.png)repeat fixed;
+  background-size: 54px;
+}
+
+body{
+  background-color:#36393f;
+  color: #262d33;
+  font-family: 'Roboto', 'Open-sans';
+
+}
+
+
+
+.container{
+  background-color:#696565;
+  max-width:1280px;
+  margin:0 auto;
+  padding:3rem
+
+}
+
+.header{
+  
+}
+
+// select children of class scss?
+
+
+a>img{width:940px;
+height:1050px;
+}
+img{width:940px;
+height:1050px;
+}
+
+// & > .header{display:inline;}
+.brand-header{
+  display:inline-block;
+}
+
+h1,h2,h3,h4,h5 {
+  margin: 40px 0 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+  list-style : none;
+  list-style-image : none;
+}
+
+a {
+  transition:3ms all;
+  font-weight: bold;
+  color: #196cbf;
+  text-decoration : none;
+  &:hover{
+    color:rgb(23, 182, 140);
+  }
+  &.router-link-exact-active {
+    color: #1f5f43;
+  }
+}
+
+#app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  // text-align: center;
+}
+
