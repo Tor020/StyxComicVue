@@ -1,6 +1,13 @@
 # StixComic
 
-This template should help get you started developing with Vue 3 in Vite.
+[LivePageLink](https://styxwc.netlify.app/)
+
+[Netlify link](https://app.netlify.com/sites/styxwc/overview)
+[Github Repo](https://github.com/Tor020/StyxComicVue)
+
+
+
+<!-- This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
@@ -31,5 +38,5 @@ npm run build
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
-npm run lint
+npm run lint -->
 ```
