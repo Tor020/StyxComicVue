@@ -1,9 +1,18 @@
 # StixComic
 
-[LivePageLink](https://styxwc.netlify.app/)
+[Live Site Link](https://styxwc.netlify.app/)
+
+
+## DevLinks 
+[Github Repo](https://github.com/Tor020/StyxComicVue)
+
+- Actual Code running on the website
+
+
 
 [Netlify link](https://app.netlify.com/sites/styxwc/overview)
-[Github Repo](https://github.com/Tor020/StyxComicVue)
+
+- "Free" back-end service to handle basic domain name and display website without having to download files locally. 
 
 
 
