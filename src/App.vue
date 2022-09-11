@@ -24,15 +24,17 @@
 
 
 <div class="image-container">
-
-  <a href="">Image Goes here</a>
-  <img src="../Assets/ChroniclesOfGarfeldProtec940_1050.png" width="940px">
-<div class="buttons">
+<hr>  
+  <img src="../Assets/ChroniclesofGarfProtecc.png" width="940px">
+<hr>  
+  <img src="../Assets/940_1050.png" width="940px">
+  
+<!-- <div class="buttons">
   <a href="" class="First"></a>
   <a href="" class="Previous"></a>
   <a href="" class="Next"></a>
   <a href="" class="Last"></a>
-</div>
+</div> -->
 
 
   <!-- <img src="./assets/logo.svg" width=940px> -->
