@@ -1,13 +1,13 @@
 html{
-  background: url(/img/bg/texture@2x.png)repeat fixed;
-  background-size: 54px;
+  background: url(../assets/tile.png)fixed repeat;
+  background-size: 12px;
 }
 
 body{
 
-margin:0 8px;
-  background-color:#36393f;
-  color: #262d33;
+margin:0;
+  // background-color:#36393f;
+  // color: #262d33;
   font-family: 'Roboto', 'Open-sans';
 
 }
